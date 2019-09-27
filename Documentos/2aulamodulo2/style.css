@@ -1,0 +1,118 @@
+body {
+    background-color: greenyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+
+
+}
+
+main {
+    background-color: greenyellow;
+   
+}
+
+
+
+.menu {
+    width: ;
+    height: ;
+
+
+}
+
+.menulist {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+
+
+
+
+}
+
+.item-list {
+    
+
+
+}
+
+#a-crise-climatica {
+
+}
+
+#desmatamento {
+
+}
+
+#degelo {
+
+}
+
+#aquecimento-global {
+
+}
+
+#ativismo {
+
+}
+
+#title {
+
+}
+
+.title-one {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 800;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.text-primeira {
+
+}
+
+.imagens {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 30%;
+    justify-content: space-around;
+
+
+}
+
+.foto {
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    
+}
+
+.text-clima {
+
+}
+
+.text-desmatamento {
+
+}
+
+.text-efeitoestufa {
+
+}
+
+.text-degelo {
+
+}
+
+.text-greta {
+
+}
+
+.text-manifesto {
+
+}
